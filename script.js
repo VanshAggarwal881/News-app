@@ -1,4 +1,4 @@
-const apikey = 'd64870a60afe42e1a07304e5412976fc';
+const apikey = 'your api key here';
 const url = 'https://newsapi.org/v2/everything?q=';
 const logo = document.getElementById('logo');
 
